@@ -7,4 +7,4 @@ This software is developed in python3 and you should install following libraries
 * cv2
 * tkinter
 
-![Alt Text](https://github.com/nimaadmed/Easy-GT/blob/main/4l9u1r.gif)
+![Alt Text](https://github.com/nimaadmed/Easy-GT/blob/main/EasyGTgif.gif)
