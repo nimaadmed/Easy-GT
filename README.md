@@ -3,3 +3,7 @@
 ## Requirements
 ### This software is developed in python3 and you should install following libraries:
 
+#### -numpy
+#### -cv2
+#### -tkinter
+
